@@ -84,7 +84,7 @@ fi
 #npm install --silent 
 
 # Gitignore anlegen
-echo -e "node_modules\n.env" > .gitignore
+curl https://www.gitignore.io/api/node,linux,macos,windows,composer --output .gitignore
 
 # Erstellt die Ordnerstruktur
 mkdir files
