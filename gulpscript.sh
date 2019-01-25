@@ -106,7 +106,7 @@ echo "Es sind alle Packet installiert"
 sleep 1
 echo "Du Findest dein Projekt unter $PWD"
 sleep 1
-echo "
+echo -e "
                     ____
                  _.' :  `._
              .-.'`.  ;   .'`.-.
@@ -134,6 +134,5 @@ echo "
         \   .-" .-"-.-"  .' .'j \  /   ;/
          \ / .-"   /.     .'.' ;_:'    ;
           :-""-.`./-.'     /    `.___.'
-                \ `t  ._  /  bug :F_P:
-                 "-.t-._:'   Möge die macht mit dir sein.
+                \ `t  ._  /  Möge die macht mit dir sein.
 "
